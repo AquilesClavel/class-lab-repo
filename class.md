@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Diego Medina Magaña  
+- Certification: Meta Back End Developer  
 
 ## Instructions
 Please replace the placeholders with your details:
